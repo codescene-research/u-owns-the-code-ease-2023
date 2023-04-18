@@ -1,6 +1,6 @@
 # Experience, Ownership, and Code Quality Study 2023
 
-This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "U Owns the Code That Changes and How Marginal Owners Resolve Issues Slower in Low-Quality Source Code" accepted for the EASIER Track at the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE), Oulu, Finland, June 14-16, 2023.
+This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "U Owns the Code That Changes and How Marginal Owners Resolve Issues Slower in Low-Quality Source Code" accepted for the EASIER Track at the [27th International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/home/ease-2023), Oulu, Finland, June 14-16, 2023.
 
 ## Abstract
 
