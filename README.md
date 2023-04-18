@@ -2,6 +2,10 @@
 
 This repo contains a complete replication package, including raw data and scripts for the statistical analysis, for the paper "U Owns the Code That Changes and How Marginal Owners Resolve Issues Slower in Low-Quality Source Code" accepted for the EASIER Track at the [27th International Conference on Evaluation and Assessment in Software Engineering (EASE)](https://conf.researchr.org/home/ease-2023), Oulu, Finland, June 14-16, 2023.
 
+## Authors
+
+Markus Borg, Adam Tornhill, and Enys Mones
+
 ## Abstract
 
 [Context] Accurate time estimation is a critical aspect of predictable software engineering. Previous work shows that low source code quality increases the uncertainty in issue resolution times.
